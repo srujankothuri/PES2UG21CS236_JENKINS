@@ -3,7 +3,7 @@
     stages {
       stage('Build') {
             steps {
-               build 'PES2UG21CS086-1'
+               build 'PES2UG21CS236-1'
                 sh 'g++ t1.cpp -o output' 
                 //sh 'aaag++ t1.cpp -o output'
               
